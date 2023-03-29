@@ -15,7 +15,7 @@
 #### Rust commands
 
 ##### Create a library project
-cargo new --lib mylib
+```cargo new --lib mylib```
 
 ##### Create a binary project 
 ```cargo new mycmd```
