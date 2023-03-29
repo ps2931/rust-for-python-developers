@@ -18,7 +18,7 @@
 cargo new --lib mylib
 
 ##### Create a binary project 
-cargo new mycmd
+```cargo new mycmd```
 
 ##### Rust documentation
 
